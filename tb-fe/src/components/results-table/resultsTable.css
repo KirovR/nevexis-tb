@@ -1,0 +1,9 @@
+.spaced{
+    margin-top: 30px;
+}
+
+.loading-indicator{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}

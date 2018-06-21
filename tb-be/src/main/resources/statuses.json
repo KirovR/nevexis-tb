@@ -1,0 +1,87 @@
+{
+  "addressInformation": {
+    "visible": false,
+    "address": "Здравейте, тиймбилдингът ще бъде в Ракета ракия бар бул. „Янко Сакъзов“ 17 до парка Заимов. Очаквам ви!"
+
+  },
+  "statuses": [{
+    "id": 1,
+    "name": "0",
+    "roomName": "Древен египет",
+    "finished": false,
+    "secretCode": "S7BV42",
+    "startTime": "19:05"
+  },
+    {
+      "id": 2,
+      "name": "1",
+      "roomName": "Изчезналият артефакт",
+      "finished": false,
+      "secretCode": "YQYAJE",
+      "startTime": "19:00"
+    },
+    {
+      "id": 3,
+      "name": "2",
+      "roomName": "Пиратско пътешествие",
+      "finished": false,
+      "secretCode": "G4Z5N9",
+      "startTime": "18:45"
+    },
+    {
+      "id": 4,
+      "name": "3",
+      "roomName": "Портал",
+      "finished": false,
+      "secretCode": "VNLD7S",
+      "startTime": "18:45"
+    },
+    {
+      "id": 5,
+      "name": "4",
+      "roomName": "Тротил",
+      "finished": false,
+      "secretCode": "TBMEHL",
+      "startTime": "18:45"
+    },
+    {
+      "id": 6,
+      "name": "5",
+      "roomName": "Dextro 2",
+      "finished": false,
+      "secretCode": "NDCMWC",
+      "startTime": "18:45"
+    },
+    {
+      "id": 7,
+      "name": "6",
+      "roomName": "Dextro 4",
+      "finished": false,
+      "secretCode": "JYAWW4",
+      "startTime": "18:45"
+    },
+    {
+      "id": 8,
+      "name": "7",
+      "roomName": "Room 66",
+      "finished": false,
+      "secretCode": "DYDEN8",
+      "startTime": "18:45"
+    },
+    {
+      "id": 9,
+      "name": "8",
+      "roomName": "King's room",
+      "finished": false,
+      "secretCode": "NCQT8G",
+      "startTime": "18:25"
+    },
+    {
+      "id": 9,
+      "name": "9",
+      "roomName": "Хакерът",
+      "finished": false,
+      "secretCode": "JDPQLA",
+      "startTime": "18:20"
+    }]
+}
